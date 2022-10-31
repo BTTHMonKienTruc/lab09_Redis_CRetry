@@ -1,0 +1,4 @@
+	#### https://howtodoinjava.com/spring-boot2/spring-retry-module/
+	####	run
+	GET 	http://localhost:8080/retry?simulateretry=true&simulateretryfallback=false
+	GET		http://localhost:8080/retry?simulateretry=true&simulateretryfallback=true
